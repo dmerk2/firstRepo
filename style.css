@@ -1,0 +1,47 @@
+header{
+	color:green;
+	text-align:center; 
+	color:orange;
+	font-size:25px;
+	font-family:arial;
+	background-color:blue; 
+}
+
+h1{
+	max-height: 10px;
+	font-family:arial;
+}
+
+h4{
+	font-size:22px;
+	color:darkred;
+	text-align:center;
+	font-family:arial;
+}
+
+div{	
+	font-size:18px; 
+	text-align:center;
+	font-family:arial;
+}
+
+body{
+	background-color:#777;
+	width:960px;
+	font-family:arial;
+}
+
+ul{
+	color:darkblue
+	font-family:arial;
+}
+
+footer{
+	color:white;
+	width:930px;
+	font-family:arial;
+}
+
+
+
+
