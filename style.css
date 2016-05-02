@@ -1,45 +1,46 @@
 header{
-	color:green;
+	color:#ebebeb;
 	text-align:center; 
 	color:orange;
-	font-size:25px;
-	font-family:arial;
-	background-color:blue; 
-}
-
-h1{
-	max-height: 10px;
+	font-size:18px;
 	font-family:arial;
 }
 
-h4{
-	font-size:22px;
-	color:darkred;
-	text-align:center;
-	font-family:arial;
-}
 
 div{	
 	font-size:18px; 
-	text-align:center;
 	font-family:arial;
+	color:#ebebeb;
+}
+
+
+h1{
+	font-size:18px;
+	font-family:arial;
+	color:#ebebeb;
+}
+
+h2{
+	font-size:18px;
+	font-family:arial;
+	color:#ebebeb;
 }
 
 body{
 	background-color:#777;
-	width:960px;
 	font-family:arial;
+	color:#ebebeb;
 }
 
 ul{
-	color:darkblue
 	font-family:arial;
+	color:#ebebeb;
 }
 
 footer{
-	color:white;
-	width:930px;
+	width:18px;
 	font-family:arial;
+	color:#ebebeb;
 }
 
 
