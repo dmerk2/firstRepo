@@ -4,7 +4,17 @@ header{
 	margin-top:20px;
 	border:3px solid black;
 	width:970;
+	background:black;
 
+}
+
+
+nav{
+	text-align:center;
+	padding:20px;
+	margin-top:20px;
+	border:3px solid black;
+	background:black;
 }
 
 body{
@@ -15,22 +25,16 @@ body{
 
 }
 
-aside{
+.aside{
 	width:300px;
 	height:200px; 	
 }
 
-nav{
-	text-align:center;
-	padding:20px;
-	margin-top:20px;
-	border:3px solid;
-}
-
 #box{
 	border-width:3px solid black;
-	border-style:solid;
+	border-style:solid black;
 	padding:20px;
+	margin:25px;
 }
 
 p{
@@ -47,11 +51,11 @@ section{
 }
 
 .footer{
-	width:320px;
+	width:970px;
 	padding:20px;
 	margin-top:20px;
 	border:3px solid black;
-	font-align:center;
+	background:black;
 }
 
 
